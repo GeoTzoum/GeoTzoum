@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Georgios Tzoumanekas and I am an undergraduate electrical and computer engineering student at National Technical University of Athens (NTUA). 
+
+Currently located in Athens, Greece.
 <!--
 **GeoTzoum/GeoTzoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
