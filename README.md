@@ -1,6 +1,6 @@
 ### Hi there, I'm George 👋
 
-My name is Georgios Tzoumanekas.
+My name is George Tzoumanekas.
 
 I am an undergraduate electrical and computer engineering student at National Technical University of Athens (NTUA), majoring in software developing.
 
