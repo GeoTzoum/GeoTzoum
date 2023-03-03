@@ -6,6 +6,7 @@ I am an undergraduate electrical and computer engineering student at National Te
 
 Currently located in Athens, Greece.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoTzoum)](https://github.com/GeoTzoum/github-readme-stats)
 
 <!--
 **GeoTzoum/GeoTzoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
