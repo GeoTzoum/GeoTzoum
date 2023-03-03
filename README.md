@@ -6,6 +6,8 @@ I am an undergraduate electrical and computer engineering student at National Te
 
 Currently located in Athens, Greece.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=GeoTzoum&theme=algolia&show_icons=true)](https://github.com/GeoTzoum)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoTzoum)](https://github.com/GeoTzoum/github-readme-stats)
 
 <!--
